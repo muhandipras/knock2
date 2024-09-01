@@ -38,7 +38,7 @@ Examples
 * https://github.com/muhandipras                     *
 ******************************************************
 
-[+] Knocking on port 127.0.0.1:7000
-[+] Knocking on port 127.0.0.1:8000
-[+] Knocking on port 127.0.0.1:9000 
+[+] hitting tcp 127.0.0.1:7000
+[+] hitting tcp 127.0.0.1:8000
+[+] hitting tcp 127.0.0.1:9000 
 ```
